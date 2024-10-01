@@ -1,7 +1,5 @@
 # To-Do App
 
--Solo Project
-
 A simple and interactive To-Do application built with React. This app allows users to add, delete, and reset tasks efficiently.
 
 ## Features
@@ -24,3 +22,5 @@ A simple and interactive To-Do application built with React. This app allows use
 - **Reset:** Provides functionality to reset the task list.
   
 ![Screenshot 2024-10-02 003916](https://github.com/user-attachments/assets/06497f89-1a80-4963-8787-87b7940e4cb7)
+
+-Developed By Sakila Sanharsha ( Solo Project )
